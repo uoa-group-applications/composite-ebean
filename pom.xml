@@ -31,7 +31,7 @@
 		<dependency>
 			<groupId>org.avaje.ebeanorm</groupId>
 			<artifactId>avaje-ebeanorm</artifactId>
-			<version>[4.7.1]</version>
+			<version>[4.7.2]</version>
 			<exclusions>
 				<exclusion>
 					<groupId>javax.persistence</groupId>
