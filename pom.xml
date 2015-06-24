@@ -10,12 +10,12 @@
 	<artifactId>composite-ebean</artifactId>
 	<packaging>jar</packaging>
 	<name>composite-ebean</name>
-	<version>3.4-SNAPSHOT</version>
+	<version>3.4</version>
 	<scm>
 		<url>https://github.com/uoa-group-applications/composite-ebean</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-ebean.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-ebean.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>composite-ebean-3.4</tag>
 	</scm>
 	<dependencies>
 		<dependency>
